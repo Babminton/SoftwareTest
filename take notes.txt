@@ -1,4 +1,0 @@
-1．实现从一个帐户到另一个帐户的转帐相关操作的测试。
-AccountService类提供有关账户的服务
-AccountManager把数据持久化到数据库
-AccountService.Chansfer()执行转账操作
